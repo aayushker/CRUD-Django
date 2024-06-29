@@ -1,2 +1,2 @@
-# REST_API-Django
-Understanding REST APIs with Django
+# CRUD-Django
+Understanding CRUD operations with Django
